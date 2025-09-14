@@ -1,0 +1,28 @@
+# Data Processing
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
+
+# API Requests
+requests
+
+# Web Framework
+fastapi
+uvicorn
+fastapi-cli
+
+# Untuk Testing
+pytest
+
+# AI / ML
+scikit-learn
+langchain-openai
+langchain
+reportlab
+dateparser
